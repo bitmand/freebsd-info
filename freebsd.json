@@ -1359,6 +1359,11 @@
     }
   },
   {
+    "version": "13.3",
+    "supported": false,
+    "patch_levels": {}
+  },
+  {
     "version": "14.0",
     "supported": true,
     "release_date": "2023-11-20T00:00:00Z",
