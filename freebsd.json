@@ -1361,7 +1361,8 @@
   },
   {
     "version": "13.3",
-    "supported": false,
+    "supported": true,
+    "release_date": "2024-03-05T00:00:00Z",
     "patch_levels": {}
   },
   {
