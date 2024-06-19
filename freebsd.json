@@ -1388,6 +1388,8 @@
     "version": "14.1",
     "supported": true,
     "release_date": "2024-06-04T00:00:00Z",
-    "patch_levels": {}
+    "patch_levels": {
+      "p1": "2024-06-19T00:00:00Z"
+    }
   }
 ]
