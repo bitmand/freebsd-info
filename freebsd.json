@@ -1378,7 +1378,9 @@
     "version": "13.4",
     "supported": true,
     "release_date": "2024-09-17T00:00:00Z",
-    "patch_levels": {}
+    "patch_levels": {
+      "p1": "2024-09-19T00:00:00Z"
+    }
   },
   {
     "version": "14.0",
