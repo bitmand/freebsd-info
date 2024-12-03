@@ -1415,7 +1415,8 @@
   },
   {
     "version": "14.2",
-    "supported": false,
+    "supported": true,
+    "release_date": "2024-12-03T00:00:00Z",
     "patch_levels": {}
   }
 ]
