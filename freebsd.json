@@ -1387,7 +1387,8 @@
   },
   {
     "version": "13.5",
-    "supported": false,
+    "supported": true,
+    "release_date": "2025-03-11T00:00:00Z",
     "patch_levels": {}
   },
   {
