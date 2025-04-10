@@ -1390,7 +1390,9 @@
     "version": "13.5",
     "supported": true,
     "release_date": "2025-03-11T00:00:00Z",
-    "patch_levels": {}
+    "patch_levels": {
+      "p1": "2025-04-10T00:00:00Z"
+    }
   },
   {
     "version": "14.0",
