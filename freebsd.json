@@ -1439,6 +1439,8 @@
     "version": "14.3",
     "supported": true,
     "release_date": "2025-06-10T00:00:00Z",
-    "patch_levels": {}
+    "patch_levels": {
+      "p1": "2025-07-02T00:00:00Z"
+    }
   }
 ]
