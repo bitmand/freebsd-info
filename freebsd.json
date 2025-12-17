@@ -1461,6 +1461,8 @@
     "version": "15.0",
     "supported": true,
     "release_date": "2025-12-02T00:00:00Z",
-    "patch_levels": {}
+    "patch_levels": {
+      "p1": "2025-12-16T00:00:00Z"
+    }
   }
 ]
