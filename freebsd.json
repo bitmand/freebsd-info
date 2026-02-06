@@ -1460,6 +1460,11 @@
     }
   },
   {
+    "version": "14.4",
+    "supported": false,
+    "patch_levels": {}
+  },
+  {
     "version": "15.0",
     "supported": true,
     "release_date": "2025-12-02T00:00:00Z",
