@@ -1490,7 +1490,9 @@
   {
     "version": "14.5",
     "supported": false,
-    "patch_levels": {}
+    "patch_levels": {
+      "p1": "2026-09-29T00:00:00Z"
+    }
   },
   {
     "version": "15.0",
