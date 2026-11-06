@@ -1523,5 +1523,10 @@
     "version": "15.1",
     "supported": false,
     "patch_levels": {}
+  },
+  {
+    "version": "15.2",
+    "supported": false,
+    "patch_levels": {}
   }
 ]
